@@ -1,12 +1,14 @@
 # Kabely
 
-*Nejdříve úlohu vyřešíme pro konkrétní velikost, potom zkusíme výsledek zobecnit.*
+*Nejdříve úlohu vyřešíme pro konkrétní počet kabelů, potom zkusíme výsledek zobecnit.*
 
 # Zadání
 
 ## Úvod
 
 Mezi 10. patrem a přízemím vede v budově osm kabelů (každý kabel vede z 10. patra do přízemí). Neví se, které konce kabelů k sobě patří. Podívejte se na obrázek, na kterém jsou už konce kabelů v každém patře označené (10. patro čísla `1-8`, přízemí `a-h`). Naším úkolem je zjistit, jaké konce patří k jednomu kabelu (například, konec kabelu číslo 3 v 10. patře patří ke konci c. v přízemí). 
+
+![Příklad označení konců kabelů](cables.png)
 
 ## Co budeme používat
 
